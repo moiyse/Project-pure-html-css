@@ -1,0 +1,214 @@
+body {
+	margin: 0px 5px 0px 5px;
+	background-color:#1f6074;
+}
+.page {
+	background-color:white;
+}		
+.téte_astuce {
+	background: url("./hiker-1149877.jpg");
+	background-position:cover;
+	background-size: 1358px 450px;
+	width:100%;
+	height:443px;
+}
+.téte_index {
+	background: url("./hiker-1149877.jpg");
+	background-position:cover;
+	background-size: 1340px 450px;
+	width:100%;
+	height:449px;
+}
+.téte_carnet {
+	background: url("./hiker de page de carnet.jpg");
+	background-position:cover;
+	background-size: 1340px 450px;
+	width:100%;
+	height:155px;
+}
+.block_title {
+	background-color:rgba(71, 177, 209,0.1);
+	border-radius:15px;
+	margin:0px 520px 0px 420px;
+	padding:52px 0px 52px 0px;
+	text-align: center;
+	border:5px solid #006280;
+}
+.border_block_title {
+	
+	
+}
+.title {
+	color: #006280;
+	max-width:240px;
+	font-size:30px;
+	font-weight: bold;
+	display: inline-block;
+    vertical-align: middle;
+	font-family:Blippo, fantasy;
+}
+article {
+	padding:60px 0px 0px 0px;
+	margin:0 auto;
+	max-width:700px;
+	font-size:20px;
+	color:black;
+}
+.a_propos_de_moi {
+	font-weight: bold;
+	font-size:30px;
+	font-family:Brush Script MT, Brush Script Std, cursive;
+	text-align: center;
+	padding:70px 0px 3px 0px;
+	color:#003b4d;
+}
+.téte_icon {
+	padding:10px 10px 10px 100px;
+	width:100%;
+	background-color:rgba(0, 85, 128,0.4);
+	font-size:20px;
+	margin:12px 0px 0px 0px;
+
+}
+.mon_image {
+	background-color:#003b4d;
+	border-radius:80px;
+	margin:0px 70px 0px 70px;
+	height:500px;
+}
+.a_propos_text {
+	font-size:20px;
+	font-family:monospace;
+	max-width: 2000px;
+	color:#b3edff;
+	padding:40px 0px 0px 120px;
+}
+.intro_moi {
+	max-width:7000px;
+	font-size:20px;
+	padding:20px 20px 20px 20px;
+	font-family:cursive;
+	color:white;
+}
+.moez {
+	width:50%;
+	margin:30px 0px 0px 100px;
+	border:4px dashed #b3edff;
+	border-radius:500px;
+}
+h2 {
+	font-family:georgia;
+}
+p {
+	font-family:times;
+}
+.en_téte {
+	padding: 30px 30px 30px 30px;
+	color:white;
+	text-decoration:none;
+	
+}
+.en_téte:hover{
+	font-weight: bold;
+}
+.image {
+	width:100%;
+	height:50%;
+}
+#titre_album {
+	display:block;
+	text-align:center;
+	margin:180px 0px 0px 0px;
+	color:#003b4d;
+	font-weight: bold;
+	font-size:30px;
+	font-family:Brush Script MT, Brush Script Std, cursive;
+	text-align: center;
+}
+.album {
+		display:block;
+	text-align:center;
+	margin:50px 0px 4px 22px;
+	padding:0px 0px 150px 0px;
+}
+.block_text {
+	max-width:300px;
+	height:340px;
+	margin:20px 30px 20px 30px;
+	padding:15px 30px 15px 30px;
+	box-shadow: 8px -8px 8px #808B96;
+	box-shadow: 5px 5px 8px #808B96;
+	background-color:#eef6fb;
+}
+.block_text:hover {
+	box-shadow: 6px -6px 8px #808B96;
+	box-shadow: 3px 3px 8px #808B96;
+}
+.image_text {
+	height:200px;
+	width:280px;
+	border-radius:6px;
+	margin:10px 0px 10px 0px;
+}
+.text_title {
+	font-weight: bold;
+	color:#003b4d;
+	font-family:DejaVu Sans Mono, monospace;
+	font-size:17px;	
+}
+.text {
+	font-family: monospace;
+	color:#262626;
+	font-weight:bold;
+	font-style:italic;
+}
+h6 {
+	font-family:monospace;
+	color:grey;
+}
+
+hr{
+	max-width:1200px;
+	font-size:50px;
+}
+.block_ville {
+	margin: 0 auto;
+	padding:20px 40px 20px 40px;
+	color:#003b4d;
+	max-width:3000px;
+	background-color:#eef6fb;
+	height:auto;
+	width:1000px;
+	font-size:16px;
+	box-shadow: 6px -6px 6px #808B96;
+	box-shadow: 3px 3px 6px #808B96;
+}
+.article_ville_title {
+	display:block;
+	text-align: center;
+	background-color:rgb(0, 98, 128,0.1);
+	padding:10px;
+	border-radius:7px;
+	font-weight:bold;
+	
+}
+.images_carnets {
+	margin:30px 12px 15px 40px;
+	height:125px;
+	width:185px;
+	border:0.6px solid #003b4d;
+	border-radius:11px;
+}
+.images_carnets:hover {
+	transform: scale(2);
+}
+video {
+	margin: 40px 250px 40px 250px;
+	height:500px;
+	width:800px;
+	
+}
+.video {
+	background-color:#1c3d4a;
+	padding :20px
+}

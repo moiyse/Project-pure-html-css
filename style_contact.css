@@ -1,0 +1,50 @@
+
+
+body {
+	background:url("./blue-2702904.jpg");
+	background-size: contain;
+	background-size:1350px 650px ;
+}
+.téte_icon {
+	padding:10px;
+	width:100%;
+	background-color:rgba(0, 39, 51,0.65);
+	font-size:20px;
+
+}
+.en_téte {
+	padding: 30px 30px 30px 30px;
+	color:white;
+	text-decoration:none;
+}
+.en_téte:hover{
+	font-weight: bold;
+}
+.block_forum{
+	background-color:rgba(0, 27, 36,0.3);
+	height:320px;
+	width:350px;
+	margin:100px 400px 0px 400px;
+	padding:50px;
+	border-radius:20px;
+}
+.forum_input {
+	background-color:rgba(136, 198, 221,0.7);
+	border-radius:20px;
+	padding:0px 10px 0px 10px;
+	width:200px;
+	height:30px;
+	margin:7px;
+}	
+label {
+	color:#3490b2 ; 
+	 font-weight:bold;
+	font-family:Arial Narrow, sans-serif;
+}
+.submit {
+	background-color:rgba(136, 198, 221,0.7);
+	border-radius:20px;
+	padding:11px 50px 5px 50px;
+	margin:7px 7px 7px 200px;
+	
+}	
